@@ -1,0 +1,5 @@
+termo = int(input("Digite o primeiro termo da PA"))
+quantidade = int(input("Digite a quantidade de termos: "))
+razao = int(input("Digite a razão: "))
+for i in range(quantidade)
+print(i)
